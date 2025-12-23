@@ -15,7 +15,7 @@ The API returns JSON data and is designed to be consumed by a Flutter applicatio
 
 ##  Tech Stack
 
-- PHP 8.x
+- PHP 8.2.12
 - Apache Server (XAMPP)
 - JSON
 
